@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Computação na UTFPR, câmpus Apucarana**  
 💻 Interesse principal: **engenharia de software e desenvolvimento fullstack**  
-📍 Apucarana, Paraná · 💼 Em busca de estágio em desenvolvimento de software
+📍 Apucarana, Paraná
 
 Desenvolvo aplicações que conectam **interface, API, banco de dados e testes**. Minha formação também me levou a projetos de robótica, sistemas e computação científica, que ampliam a forma como abordo problemas de software.
 
