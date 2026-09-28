@@ -12,6 +12,24 @@ Desenvolvo aplicações que conectam **interface, API, banco de dados e testes**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-rodrigues-bb187b289/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe7rodrigues54@gmail.com)
 
+## 🚀 Projetos em destaque
+
+### [Gerenciador de tarefas · aplicação fullstack](https://github.com/felipe-rodriguesz/CRUD_de_Tarefas_Express)
+
+Aplicação web com cadastro e login, tarefas por usuário, busca e interface responsiva. A API usa **Node.js, Express e PostgreSQL**, com **JWT em cookie HttpOnly** e testes de integração em **Jest e Supertest**.
+
+### [DevRoast · aplicação fullstack com IA](https://github.com/felipe-rodriguesz/devroast)
+
+Aplicação em **Next.js, React e TypeScript** para analisar trechos de código com IA e consultar um ranking. Usa **tRPC, Drizzle e PostgreSQL**. Desenvolvida durante a **NLW Operator da Rocketseat**.
+
+### [SistemaPagamentos · regras de negócio em Java](https://github.com/felipe-rodriguesz/SistemaPagamentos)
+
+Aplicação desktop acadêmica em **Java e Swing** para gerenciar aluguéis, reservas e pagamentos simulados. Inclui testes de regras de negócio com **JUnit**.
+
+### [Compilador GYH com ANTLR · fundamentos de software](https://github.com/felipe-rodriguesz/CompiladorGYH-ANTLR)
+
+Compilador acadêmico em **Java e ANTLR** que reconhece um subconjunto da linguagem GYH, realiza verificações semânticas básicas e gera código-fonte C.
+
 ## 🧩 O que desenvolvo
 
 - **Aplicações web e APIs:** interfaces, rotas, autenticação e persistência de dados.
@@ -44,24 +62,6 @@ Desenvolvo aplicações que conectam **interface, API, banco de dados e testes**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 🚀 Projetos em destaque
-
-### [Gerenciador de tarefas · aplicação fullstack](https://github.com/felipe-rodriguesz/CRUD_de_Tarefas_Express)
-
-Aplicação web com cadastro e login, tarefas por usuário, busca e interface responsiva. A API usa **Node.js, Express e PostgreSQL**, com **JWT em cookie HttpOnly** e testes de integração em **Jest e Supertest**.
-
-### [DevRoast · aplicação fullstack com IA](https://github.com/felipe-rodriguesz/devroast)
-
-Aplicação em **Next.js, React e TypeScript** para analisar trechos de código com IA e consultar um ranking. Usa **tRPC, Drizzle e PostgreSQL**. Desenvolvida durante a **NLW Operator da Rocketseat**.
-
-### [SistemaPagamentos · regras de negócio em Java](https://github.com/felipe-rodriguesz/SistemaPagamentos)
-
-Aplicação desktop acadêmica em **Java e Swing** para gerenciar aluguéis, reservas e pagamentos simulados. Inclui testes de regras de negócio com **JUnit**.
-
-### [Compilador GYH com ANTLR · fundamentos de software](https://github.com/felipe-rodriguesz/CompiladorGYH-ANTLR)
-
-Compilador acadêmico em **Java e ANTLR** que reconhece um subconjunto da linguagem GYH, realiza verificações semânticas básicas e gera código-fonte C.
 
 ## ⚙️ Além das aplicações web
 
